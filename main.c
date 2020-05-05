@@ -15,8 +15,6 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 */
 
-// Author: 浅倉麗子
-
 #include <stdarg.h>
 #include <string.h>
 #include <psp2kern/io/fcntl.h>
